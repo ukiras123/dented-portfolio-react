@@ -21,7 +21,7 @@ function App() {
               <h1>Kiran</h1>
             </div>
             <div>
-              <h1 className="line">Soft. Engineer</h1>
+              <h1 className="line">Soft. Engineer, and more</h1>
             </div>
           </div>
 
